@@ -7,7 +7,7 @@ root = os.getcwd()
 files = os.listdir(root)
 files = filter(lambda f:f.endswith(".svg"), files)
 
-for size in ["16", "22", "24", "32", "48"]:
+for size in ["16", "24", "32", "48"]:
     parent = os.path.dirname(root)
     if not os.path.isdir(os.path.join(parent, size)):
         os.mkdir(os.path.join(parent, size))
