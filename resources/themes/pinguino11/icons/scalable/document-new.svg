@@ -13,10 +13,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="92"
    height="92"
-   sodipodi:docname="new_file.svg"
+   sodipodi:docname="document-new.svg"
    inkscape:export-filename="/home/yeison/Documentos/PythonPowered/pinguinoX3/PinguinoX/PinguinoSVG_min/Pinguino-Dr/new.png"
    inkscape:export-xdpi="32.02"
    inkscape:export-ydpi="32.02">
@@ -2388,16 +2388,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="118.75584"
-     inkscape:cy="-131.73714"
+     inkscape:zoom="6.3152174"
+     inkscape:cx="46"
+     inkscape:cy="46"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3903"
+     inkscape:current-layer="g3932"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -2450,10 +2450,15 @@
              d="m 182.52285,36.120856 0,42.155623 c 0,2.238397 -1.80203,4.040427 -4.04043,4.040427 l -42.89068,0 c -2.23839,0 -4.04042,-1.80203 -4.04042,-4.040427 l 0,-63.092814 c 0,-2.238396 1.80203,-4.040427 4.04042,-4.040427 l 0,0 21.91426,0"
              style="fill:#ffffff;fill-opacity:1;stroke:none" />
           <path
+             style="fill:#afc8e1;fill-opacity:1;stroke:none"
+             d="m 190.12353,40.852911 -30.80164,0 c -3.28685,0 -5.93294,-2.64609 -5.93294,-5.932937 l 0,-30.7440338"
+             id="path3752"
+             inkscape:connector-curvature="0" />
+          <path
              inkscape:connector-curvature="0"
              id="rect3105"
-             d="m 182.52285,36.120857 -20.97642,0 c -2.2384,0 -4.04043,-1.802031 -4.04043,-4.040427 l 0,-20.937192"
-             style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+             d="m 179.90726,35.962509 -17.91784,0 c -1.91202,0 -3.45129,-1.539276 -3.45129,-3.451291 l 0,-17.884331"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
         </g>
       </g>
     </g>

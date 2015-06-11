@@ -13,10 +13,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="92"
    height="92"
-   sodipodi:docname="save_image.svg"
+   sodipodi:docname="applets-screenshooter.svg"
    inkscape:export-filename="/home/yeison/Documentos/PythonPowered/pinguinoX3/PinguinoX/PinguinoSVG_min/Pinguino-Dr/new.png"
    inkscape:export-xdpi="32.02"
    inkscape:export-ydpi="32.02">
@@ -2388,14 +2388,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="2.8284271"
-     inkscape:cx="114.57762"
+     inkscape:cx="43.513388"
      inkscape:cy="40.728577"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4921"
      showguides="true"
@@ -2462,79 +2462,50 @@
   <g
      id="g4921"
      transform="translate(-118.514,-337)">
-    <g
-       transform="translate(-103.50176,-8.5355225)"
-       id="g4915"
-       inkscape:export-filename="/home/yeison/Documentos/python/dev/developing/Pinguino11/qtgui/resources/toolbar/save_image.png"
+    <rect
+       inkscape:export-ydpi="31"
        inkscape:export-xdpi="31"
-       inkscape:export-ydpi="31">
-      <rect
-         style="fill:#afc8e1;fill-opacity:1;stroke:none"
-         id="rect4679"
-         width="92"
-         height="92"
-         x="222.01576"
-         y="345.53552"
-         ry="4.8897305"
-         inkscape:export-filename="/home/yeison/Documentos/python/dev/developing/Pinguino11/qtgui/resources/toolbar/save_image.png"
-         inkscape:export-xdpi="31"
-         inkscape:export-ydpi="31" />
-      <g
-         style="fill:#ffffff;stroke:none"
-         transform="matrix(4.7649249,0,0,4.7649249,229.52179,353.35273)"
-         id="Icons with numbers">
-        <g
-           style="fill:#ffffff"
-           id="Group"
-           transform="translate(-528,-192)">
-          <path
-             style="fill:#ffffff"
-             sodipodi:nodetypes="csssccsssss"
-             inkscape:connector-curvature="0"
-             d="m 530.0061,204.02661 c 0,0 1.04004,-7.02295 2.58423,-7.02295 1.54419,0 2.22058,4.95386 3.46289,4.95386 1.24231,0 1.14868,-1.93567 2.05811,-1.93567 0.90942,0 4.03979,4.00476 4.03979,4.00476 z M 540.5,199 c -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.67157,1.5 -1.5,1.5 z"
-             id="Oval 236" />
-        </g>
-      </g>
-    </g>
+       inkscape:export-filename="/home/yeison/Documentos/python/dev/developing/Pinguino11/qtgui/resources/toolbar/save_image.png"
+       ry="4.8897305"
+       y="337"
+       x="118.514"
+       height="92"
+       width="92"
+       id="rect4679"
+       style="fill:#afc8e1;fill-opacity:1;stroke:none" />
     <g
        id="g3609"
-       transform="translate(-0.01398992,-0.02182011)">
+       transform="translate(-0.01398992,-0.02182011)" />
+    <g
+       id="g4578"
+       transform="translate(0.74517828,-0.74513626)">
+      <path
+         style="fill:#ffffff;stroke:none"
+         sodipodi:nodetypes="cssscc"
+         inkscape:connector-curvature="0"
+         d="m 129.5685,416.23769 c 0,0 5.77319,-38.98384 14.34486,-38.98384 8.57167,0 12.32626,27.4985 19.22224,27.4985 6.89596,0 6.37622,-10.74476 11.4244,-10.74476 5.04811,0 22.42455,22.2301 22.42455,22.2301 z"
+         id="Oval 236" />
       <rect
-         ry="0.86540407"
-         y="346.6246"
-         x="123.06572"
-         height="1.7308081"
-         width="65.424553"
-         id="rect3562"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <rect
-         transform="matrix(0,1,-1,0,0,0)"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect3591"
-         width="39.116268"
-         height="1.7308081"
-         x="342.08868"
-         y="-129.29861"
-         ry="0.86540407" />
-      <rect
-         transform="scale(-1,-1)"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect3601"
-         width="65.424553"
-         height="1.7308081"
-         x="-205.99026"
-         y="-419.41904"
-         ry="0.86540407" />
-      <rect
-         ry="0.86540407"
-         y="199.75737"
-         x="-423.95496"
-         height="1.7308081"
-         width="39.116268"
-         id="rect3603"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.29999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="matrix(0,-1,1,0,0,0)" />
+         ry="4.4658599"
+         y="350.00153"
+         x="128.57214"
+         height="67.487221"
+         width="70.393356"
+         id="rect3759"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.28793097;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4584"
+       sodipodi:type="arc"
+       sodipodi:cx="178.97163"
+       sodipodi:cy="367.83527"
+       sodipodi:rx="8.485281"
+       sodipodi:ry="8.485281"
+       sodipodi:start="0"
+       sodipodi:end="6.2831679"
+       sodipodi:open="true"
+       d="m 187.45691,367.83527 a 8.485281,8.485281 0 0 1 -8.48524,8.48528 8.485281,8.485281 0 0 1 -8.48532,-8.48521 8.485281,8.485281 0 0 1 8.48517,-8.48535 8.485281,8.485281 0 0 1 8.48539,8.48513" />
   </g>
   <g
      id="g3264"

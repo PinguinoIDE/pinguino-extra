@@ -13,10 +13,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="92"
    height="92"
-   sodipodi:docname="open_file.svg"
+   sodipodi:docname="document-open.svg"
    inkscape:export-filename="/home/yeison/Documentos/PythonPowered/pinguinoX3/PinguinoX/PinguinoSVG_min/Pinguino-Dr/new.png"
    inkscape:export-xdpi="32.02"
    inkscape:export-ydpi="32.02">
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2388,16 +2388,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="718"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="183.24183"
-     inkscape:cy="-135.88754"
+     inkscape:zoom="4"
+     inkscape:cx="53.56958"
+     inkscape:cy="24.272224"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4985"
+     inkscape:current-layer="g5529"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -2419,64 +2419,82 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-113.74831px"
+       originx="-222.26232px"
        originy="-152.02982px" />
   </sodipodi:namedview>
   <g
      id="g4985"
-     transform="translate(-118.51401,-9.9999998)">
-    <g
-       inkscape:export-ydpi="31.299999"
-       inkscape:export-xdpi="31.299999"
-       inkscape:export-filename="/home/yeison/Desktop/sa.svg.png"
-       transform="translate(10,10)"
-       id="g3932">
-      <g
-         id="g3973"
-         transform="translate(-111.03709,-0.730072)">
-        <g
-           id="g3903" />
-      </g>
-    </g>
+     transform="translate(-227.02801,-9.9999998)">
     <g
        inkscape:export-ydpi="31.299999"
        inkscape:export-xdpi="31.299999"
        inkscape:export-filename="/home/yeison/Documentos/python/dev/Proyectos en desarrollo/Pinguino11/qtgui/resources/toolbar/open_file.png"
        transform="translate(135.81432,12.471473)"
-       id="g3958">
+       id="g3958" />
+    <g
+       inkscape:export-ydpi="31.299999"
+       inkscape:export-xdpi="31.299999"
+       inkscape:export-filename="/home/yeison/Documentos/python/dev/Proyectos en desarrollo/Pinguino11/qtgui/resources/toolbar/save_file.png"
+       transform="translate(14.327847,-60.573662)"
+       id="g4017">
+      <rect
+         ry="4.8897305"
+         y="70.573662"
+         x="212.70016"
+         height="92"
+         width="92"
+         id="rect3993"
+         style="fill:#afc8e1;fill-opacity:1;stroke:none" />
       <g
-         transform="translate(-17.300313,-2.4714732)"
-         id="g3985">
-        <rect
-           style="fill:#afc8e1;fill-opacity:1;stroke:none"
-           id="rect3960"
-           width="92"
-           height="92"
-           x="0"
-           y="0"
-           ry="4.8897305" />
+         id="g4582"
+         transform="translate(-0.8838825,1.6357116)">
         <g
-           id="g3981"
-           transform="translate(-2.6207066,2.3833505)">
-          <path
-             sodipodi:nodetypes="sssssssss"
-             inkscape:connector-curvature="0"
-             id="rect3970"
-             d="m 15.620708,29.868273 66,0 c 2.038934,0 3.768951,1.429576 3.680389,3.200363 L 83.620708,66.66791 c -0.08856,1.770788 -1.641455,3.200363 -3.680391,3.200363 l -62.639217,0 c -2.038937,0 -3.59183,-1.429575 -3.680392,-3.200363 L 11.940316,33.068636 c -0.08856,-1.770787 1.641455,-3.200363 3.680392,-3.200363 z"
-             style="fill:#ffffff;fill-opacity:1;stroke:none" />
-          <path
-             sodipodi:nodetypes="cccccccccccccccc"
-             inkscape:connector-curvature="0"
-             id="path3974"
-             d="m 17.357612,18.803829 c -0.708002,0.06791 -1.306651,0.733075 -1.299864,1.444294 -0.02643,2.027595 -5.7e-5,6.239367 -5.7e-5,7.163716 l 65.137735,0 c 0,-0.924349 -1.9e-5,-1.411589 -1.9e-5,-2.397546 -0.01108,-0.73802 -0.677388,-1.404327 -1.415408,-1.415408 l -42.520016,0 -4.390653,-4.390654 c -0.267496,-0.258887 -0.63876,-0.407392 -1.011006,-0.404402 l -14.356282,0 c -0.0481,-0.0024 -0.09633,-0.0024 -0.14443,0 z m 1.588724,2.859702 12.305384,0 2.888588,2.888588 -15.193972,0 z"
-             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#e6e6e6;stroke-width:2.87400603;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+           id="g4588"
+           transform="translate(-15.078494,-13.524398)">
+          <g
+             id="g4555"
+             transform="translate(0,1.0606595)">
+            <g
+               transform="matrix(1.133106,0,0,1.133106,-21.076155,-5.6490106)"
+               id="g4578">
+              <g
+                 id="g5529"
+                 transform="translate(-1.7650646,1.1031561)">
+                <path
+                   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.55951464;stroke-linejoin:round;stroke-opacity:1"
+                   d="m 254.96575,124.60236 15.59515,0 0,-23.50653 7.79756,0 -15.59514,-15.595157 -15.59514,15.595157 7.79757,0 z"
+                   id="path4003"
+                   inkscape:connector-curvature="0"
+                   sodipodi:nodetypes="cccccccc" />
+                <g
+                   id="g5524">
+                  <rect
+                     ry="3.4068842"
+                     y="132.05074"
+                     x="237.32106"
+                     height="12.979873"
+                     width="50.884529"
+                     id="rect4574"
+                     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5.76917887;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                  <rect
+                     ry="2.9695911"
+                     y="134.89618"
+                     x="271.70108"
+                     height="7.2889924"
+                     width="14.577982"
+                     id="rect4576"
+                     style="fill:#afc8e1;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                </g>
+              </g>
+            </g>
+          </g>
         </g>
       </g>
     </g>
   </g>
   <g
      style="filter:url(#filter4412)"
-     transform="matrix(0.75111094,0.660176,-0.660176,0.75111094,1315.1981,156.44729)"
+     transform="matrix(0.75111094,0.660176,-0.660176,0.75111094,1206.6841,156.44729)"
      id="g4262" />
   <path
      style="fill:#000000;fill-opacity:1;stroke:none"
@@ -2494,10 +2512,10 @@
      id="path5737"
      inkscape:connector-curvature="0" />
   <g
-     transform="matrix(1.1485794,0,0,1.1485794,-282.569,-82.283313)"
+     transform="matrix(1.1485794,0,0,1.1485794,-391.083,-82.283313)"
      id="g4075"
      style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" />
   <g
      id="g3264"
-     transform="translate(-134.99929,54.67619)" />
+     transform="translate(-243.51329,54.67619)" />
 </svg>

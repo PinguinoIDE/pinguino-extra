@@ -13,10 +13,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="92"
    height="92"
-   sodipodi:docname="compile.svg"
+   sodipodi:docname="system-run.svg"
    inkscape:export-filename="/home/yeison/Documentos/PythonPowered/pinguinoX3/PinguinoX/PinguinoSVG_min/Pinguino-Dr/new.png"
    inkscape:export-xdpi="32.02"
    inkscape:export-ydpi="32.02">
@@ -2388,16 +2388,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="183.24184"
-     inkscape:cy="82.112461"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="54.801972"
+     inkscape:cy="24.491294"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4945"
+     inkscape:current-layer="g4007"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -2470,37 +2470,16 @@
       <rect
          ry="4.8897305"
          y="177.39754"
-         x="12.899374"
+         x="12.89937"
          height="92"
          width="92"
          id="rect3921"
          style="fill:#afc8e1;fill-opacity:1;stroke:none" />
-      <g
-         id="g3993"
-         transform="translate(-3.866526e-7,0.29126097)">
-        <g
-           id="g3935"
-           transform="matrix(0.91057729,0,0,0.91057729,15.671647,181.58611)">
-          <path
-             sodipodi:open="true"
-             sodipodi:end="6.2831679"
-             sodipodi:start="0"
-             transform="translate(6.590595,-188.75174)"
-             d="m 77.987839,234.34937 c 0,20.49283 -16.612722,37.10555 -37.105553,37.10555 -20.492831,0 -37.1055526,-16.61272 -37.1055526,-37.10555 0,-20.49284 16.6127216,-37.10556 37.1055526,-37.10556 20.492579,0 37.105196,16.61233 37.105553,37.10491"
-             sodipodi:ry="37.105553"
-             sodipodi:rx="37.105553"
-             sodipodi:cy="234.34937"
-             sodipodi:cx="40.882286"
-             id="path3931"
-             style="fill:#000000;fill-opacity:0;stroke:#e6e6e6;stroke-width:6.4000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             sodipodi:type="arc" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path3933"
-             d="m 35.099118,22.533521 0,46.128209 36.902568,-23.064104 z"
-             style="fill:#ffffff;stroke:#ffffff;stroke-width:3.41348743;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        </g>
-      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3933"
+         d="m 34.987538,193.50763 0,59.77982 47.823861,-29.88991 z"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:4.42370701;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <g

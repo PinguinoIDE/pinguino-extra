@@ -21,5 +21,6 @@ for path in paths:
     files = filter(lambda f:f.endswith(".svg"), files)
 
     for file in files:
-        os.remove(file.replace(".svg", ".png"))
+        if os.path.exists(file.replace(".svg", ".png")):
+            os.remove(file.replace(".svg", ".png"))
         os.system("convert -background transparent %s %s"%(file, file.replace(".svg", ".png")))
