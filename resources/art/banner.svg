@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="770.85559"
    height="191.04579"
    sodipodi:docname="banner.svg"
-   inkscape:export-filename="/home/yeison/Documentos/Pinguino/pinguino-ide/qtgui/resources/art/banner.png"
+   inkscape:export-filename="/home/yeison/Documentos/Desarrollo/Pinguino/GitHub/pinguino-extra/resources/art/banner_blue.png"
    inkscape:export-xdpi="81.727371"
    inkscape:export-ydpi="81.727371">
   <metadata
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -716,17 +716,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1317"
-     inkscape:window-height="744"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.2402857"
-     inkscape:cx="389.32893"
-     inkscape:cy="32.524575"
-     inkscape:window-x="49"
-     inkscape:window-y="24"
+     inkscape:zoom="0.87701443"
+     inkscape:cx="388.46371"
+     inkscape:cy="-76.112478"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3722"
+     inkscape:current-layer="g3715"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -736,8 +736,8 @@
      fit-margin-left="10"
      fit-margin-right="10"
      fit-margin-bottom="10"
-     inkscape:snap-bbox="false"
-     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false"
      inkscape:bbox-paths="false">
@@ -754,6 +754,10 @@
        orientation="0,1"
        position="499.42167,-184.71761"
        id="guide4816" />
+    <sodipodi:guide
+       position="444.25248,108.64432"
+       orientation="0,1"
+       id="guide4297" />
   </sodipodi:namedview>
   <g
      transform="matrix(0.7492098,0,0,0.7492098,547.87727,90.713592)"
@@ -960,7 +964,7 @@ ABUAFgAXABkAGwAcAAA=&quot;)}
                sodipodi:open="true"
                sodipodi:end="6.2831679"
                sodipodi:start="0"
-               d="m 1700.8813,175.48776 c 0,102.24445 -85.0439,185.12995 -189.951,185.12995 -104.9071,0 -189.951,-82.8855 -189.951,-185.12995 0,-102.244442 85.0439,-185.1299414 189.951,-185.1299414 104.9058,0 189.9492,82.8835354 189.951,185.1267214"
+               d="M 1700.8813,175.48776 A 189.95103,185.12994 0 0 1 1510.9311,360.61771 189.95103,185.12994 0 0 1 1320.9793,175.48937 189.95103,185.12994 0 0 1 1510.9278,-9.6421814 189.95103,185.12994 0 0 1 1700.8813,175.48454"
                sodipodi:ry="185.12994"
                sodipodi:rx="189.95103"
                sodipodi:cy="175.48776"
@@ -980,7 +984,7 @@ ABUAFgAXABkAGwAcAAA=&quot;)}
                sodipodi:open="true"
                sodipodi:end="6.2831679"
                sodipodi:start="0"
-               d="m 700.02258,299.87195 c 0,46.32951 -37.12579,83.88701 -82.92279,83.88701 -45.79699,0 -82.92279,-37.5575 -82.92279,-83.88701 0,-46.32952 37.1258,-83.88701 82.92279,-83.88701 45.79643,0 82.922,37.5566 82.92279,83.88555"
+               d="m 700.02258,299.87195 a 82.922791,83.887009 0 0 1 -82.92243,83.88701 82.922791,83.887009 0 0 1 -82.92315,-83.88628 82.922791,83.887009 0 0 1 82.92171,-83.88774 82.922791,83.887009 0 0 1 82.92387,83.88555"
                sodipodi:ry="83.887009"
                sodipodi:rx="82.922791"
                sodipodi:cy="299.87195"
@@ -993,7 +997,7 @@ ABUAFgAXABkAGwAcAAA=&quot;)}
                sodipodi:open="true"
                sodipodi:end="6.2831679"
                sodipodi:start="0"
-               d="m 507.17892,269.01694 c 0,53.78483 -34.53563,97.38606 -77.13748,97.38606 -42.60185,0 -77.13747,-43.60123 -77.13747,-97.38606 0,-53.78484 34.53562,-97.38607 77.13747,-97.38607 42.60133,0 77.13674,43.6002 77.13748,97.38437"
+               d="m 507.17892,269.01694 a 77.137474,97.386063 0 0 1 -77.13714,97.38606 77.137474,97.386063 0 0 1 -77.13781,-97.38522 77.137474,97.386063 0 0 1 77.13647,-97.38691 77.137474,97.386063 0 0 1 77.13848,97.38437"
                sodipodi:ry="97.386063"
                sodipodi:rx="77.137474"
                sodipodi:cy="269.01694"
@@ -1009,7 +1013,7 @@ ABUAFgAXABkAGwAcAAA=&quot;)}
                sodipodi:cy="269.01694"
                sodipodi:rx="77.137474"
                sodipodi:ry="97.386063"
-               d="m 507.17892,269.01694 c 0,53.78483 -34.53563,97.38606 -77.13748,97.38606 -42.60185,0 -77.13747,-43.60123 -77.13747,-97.38606 0,-53.78484 34.53562,-97.38607 77.13747,-97.38607 42.60133,0 77.13674,43.6002 77.13748,97.38437"
+               d="m 507.17892,269.01694 a 77.137474,97.386063 0 0 1 -77.13714,97.38606 77.137474,97.386063 0 0 1 -77.13781,-97.38522 77.137474,97.386063 0 0 1 77.13647,-97.38691 77.137474,97.386063 0 0 1 77.13848,97.38437"
                sodipodi:start="0"
                sodipodi:end="6.2831679"
                sodipodi:open="true"
@@ -1019,7 +1023,7 @@ ABUAFgAXABkAGwAcAAA=&quot;)}
                sodipodi:open="true"
                sodipodi:end="6.2831679"
                sodipodi:start="0"
-               d="m 692.30886,306.62146 c 0,43.6669 -34.53562,79.06591 -77.13747,79.06591 -42.60185,0 -77.13748,-35.39901 -77.13748,-79.06591 0,-43.6669 34.53563,-79.06591 77.13748,-79.06591 42.60132,0 77.13673,35.39817 77.13747,79.06453"
+               d="m 692.30886,306.62146 a 77.137474,79.06591 0 0 1 -77.13714,79.06591 77.137474,79.06591 0 0 1 -77.13781,-79.06522 77.137474,79.06591 0 0 1 77.13647,-79.0666 77.137474,79.06591 0 0 1 77.13848,79.06453"
                sodipodi:ry="79.06591"
                sodipodi:rx="77.137474"
                sodipodi:cy="306.62146"
@@ -1031,7 +1035,7 @@ ABUAFgAXABkAGwAcAAA=&quot;)}
                sodipodi:open="true"
                sodipodi:end="6.2831679"
                sodipodi:start="0"
-               d="m 509.10734,296.01508 c 0,21.83344 -12.08747,39.53295 -26.99812,39.53295 -14.91065,0 -26.99812,-17.69951 -26.99812,-39.53295 0,-21.83345 12.08747,-39.53296 26.99812,-39.53296 14.91047,0 26.99786,17.69909 26.99812,39.53227"
+               d="m 509.10734,296.01508 a 26.998117,39.532955 0 0 1 -26.998,39.53295 26.998117,39.532955 0 0 1 -26.99824,-39.53261 26.998117,39.532955 0 0 1 26.99777,-39.5333 26.998117,39.532955 0 0 1 26.99847,39.53227"
                sodipodi:ry="39.532955"
                sodipodi:rx="26.998117"
                sodipodi:cy="296.01508"
@@ -1051,7 +1055,7 @@ ABUAFgAXABkAGwAcAAA=&quot;)}
                sodipodi:open="true"
                sodipodi:end="6.2831679"
                sodipodi:start="0"
-               d="m 509.10734,296.01508 c 0,21.83344 -12.08747,39.53295 -26.99812,39.53295 -14.91065,0 -26.99812,-17.69951 -26.99812,-39.53295 0,-21.83345 12.08747,-39.53296 26.99812,-39.53296 14.91047,0 26.99786,17.69909 26.99812,39.53227"
+               d="m 509.10734,296.01508 a 26.998117,39.532955 0 0 1 -26.998,39.53295 26.998117,39.532955 0 0 1 -26.99824,-39.53261 26.998117,39.532955 0 0 1 26.99777,-39.5333 26.998117,39.532955 0 0 1 26.99847,39.53227"
                sodipodi:ry="39.532955"
                sodipodi:rx="26.998117"
                sodipodi:cy="296.01508"
@@ -1143,7 +1147,7 @@ ABUAFgAXABkAGwAcAAA=&quot;)}
                sodipodi:cy="-5872.1768"
                sodipodi:rx="175.757"
                sodipodi:ry="175.757"
-               d="m -3763.4923,-5872.1768 c 0,97.068 -78.6891,175.757 -175.757,175.757 -97.0679,0 -175.757,-78.689 -175.757,-175.757 0,-0.6135 0,-1.227 0.01,-1.8404 l 175.7473,1.8404 z"
+               d="m -3763.4923,-5872.1768 a 175.757,175.757 0 0 1 -88.4103,152.5159 175.757,175.757 0 0 1 -176.2856,-0.923 175.757,175.757 0 0 1 -86.8084,-153.4333 l 175.7473,1.8404 z"
                transform="matrix(0.35647915,0,0,-0.23591188,749.95252,-1509.9755)"
                sodipodi:start="0"
                sodipodi:end="3.1520646" />
@@ -1169,7 +1173,7 @@ ABUAFgAXABkAGwAcAAA=&quot;)}
        style="fill:#ffffff;fill-opacity:1">
       <text
          xml:space="preserve"
-         style="font-size:83.43518828999999926px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Quicksand;-inkscape-font-specification:Graublau Web Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:83.43518829px;line-height:125%;font-family:Quicksand;-inkscape-font-specification:'Graublau Web Bold';letter-spacing:0px;word-spacing:0px;fill:#afc8e1;fill-opacity:1;stroke:none"
          x="567.69299"
          y="312.18774"
          id="text5048"
@@ -1178,14 +1182,14 @@ ABUAFgAXABkAGwAcAAA=&quot;)}
            id="tspan5050"
            x="567.69299"
            y="312.18774"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Graublau Web;-inkscape-font-specification:Graublau Web Bold;fill:#ffffff;fill-opacity:1">Pinguino</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Graublau Web';-inkscape-font-specification:'Graublau Web Bold';fill:#afc8e1;fill-opacity:1">Pinguino IDE</tspan></text>
       <g
          id="g3151"
          transform="translate(156.52032,330.92858)"
-         style="fill:#ffffff;fill-opacity:1">
+         style="fill:#afc8e1;fill-opacity:1">
         <text
            xml:space="preserve"
-           style="font-size:31.91759490999999826px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Graublau Web;-inkscape-font-specification:Graublau Web"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.91759491px;line-height:125%;font-family:'Graublau Web';-inkscape-font-specification:'Graublau Web';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#afc8e1;fill-opacity:1;stroke:none"
            x="414.52411"
            y="70.923912"
            id="text3135"
@@ -1193,19 +1197,32 @@ ABUAFgAXABkAGwAcAAA=&quot;)}
              sodipodi:role="line"
              x="414.52411"
              y="70.923912"
-             id="tspan3139">Open Source Integrated Development Environment (IDE)</tspan></text>
+             id="tspan3139">Open source integrated development environment</tspan></text>
         <text
            sodipodi:linespacing="125%"
            id="text3141"
            y="34.029839"
            x="414.52411"
-           style="font-size:31.91759490999999826px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Graublau Web;-inkscape-font-specification:Graublau Web"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.91759491px;line-height:125%;font-family:'Graublau Web';-inkscape-font-specification:'Graublau Web';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#afc8e1;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
              id="tspan3145"
              y="34.029839"
              x="414.52411"
-             sodipodi:role="line">Open Hardware Electronics Prototyping Platform</tspan></text>
+             sodipodi:role="line">Open hardware electronics prototyping platform</tspan></text>
       </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4293"
+         y="297.40866"
+         x="1098.6281"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:87.60198212px;line-height:125%;font-family:Quicksand;-inkscape-font-specification:'Graublau Web Bold';letter-spacing:0px;word-spacing:0px;fill:#afc8e1;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         transform="scale(0.95243493,1.0499405)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Graublau Web';-inkscape-font-specification:'Graublau Web Bold';fill:#afc8e1;fill-opacity:1"
+           y="297.40866"
+           x="1098.6281"
+           id="tspan4295"
+           sodipodi:role="line">12</tspan></text>
     </g>
   </g>
 </svg>
